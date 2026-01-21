@@ -11,7 +11,7 @@ render_with_liquid: false
 
 Alright! This is a new test post for Bullet Train. 
 
-![Alt text](https://upload.wikimedia.org/wikipedia/commons/5/5e/Bullet_Train_Logo.svg)
+<!-- ![Alt text](https://upload.wikimedia.org/wikipedia/commons/5/5e/Bullet_Train_Logo.svg) -->
 
 One of my favorite films, this was the first film to put director David Leitch on my radar. Right away, the movie establishes itself as highly stylized. The character graphics intros (always love when a movie has the confidence to go cartoonish) compare well to the evil exes from Scott Pilgrim, hinting at the lunacy to follow. Wardrobe, fight choreo, and shot pacing all synchronize to augment the rapid escalation of stakes throughout the movie. There's a really fun conceit with continual stops along the train route, which provide a great device to bookend scenes. Plus, with the separate train cars, Leitch is really able to isolate scenes in both space and time without having to spend a lot of overhead on sending irrelevant characters off screen.
 
